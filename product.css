@@ -1,0 +1,101 @@
+.main{margin: 0% 5%;}
+.nav{margin-left: 20%;}
+.nav a{padding-left: 30px;}
+.yellow{background-color: yellow}
+.yellow input{margin-left: 10%;padding: 3px 25px;border-radius: 5px;}
+.yellow h1{color: white;margin-bottom: -3%;}
+.yellow button{margin-left: 20%;border-radius: 6px;border-color: yellow;
+    padding: 5px 15px;color: white;background-color: yellowgreen;}
+.icons{float: right;color: white;margin-right: 1%;}
+.intro img{width: 350px;}
+.words h5{color: green;}
+.words button{padding: 8px 50px;background-color: yellow;border-radius: 5px;color: white;} 
+.words{margin-left: 50%;margin-top: -35%;}
+.intro{margin-top: 3%;margin-left: 5%;}
+.fin{margin-left: 30%;margin-top: -15%;}
+.fin label{color: green;}
+.fin a{color:purple}
+.minipics img {width: 50px;margin-top: 4%;margin-left: 1%;}
+.minipics{margin-left: 4%;}
+.ending button{background-color: yellow;padding: 5px 30px;color: white;border-radius: 5px;}
+.ending input{text-align: center;padding: 5px 0px;}
+.ending{margin-left: 30%;margin-top: 4%;}
+.par{margin: 2% 20%;}
+.par h1{text-align: center;}
+.par img{width: 300px;}
+.one button{border-radius: 5px;border-color: yellow;background-color: white;}
+.two button{border-radius: 5px;border-color: yellow;background-color: white;}
+.three button{border-radius: 5px;border-color: yellow;background-color: white;padding: 20px;}
+.two{float: right;margin-top: -29%;}
+.three{margin-top: 1%;margin-left: 25%;}
+#h1{text-align: center;}
+.mages img{width: 200px;}
+.mages{display: flex ;}
+.aa{margin-left: 5%;}
+.bb{margin-left: 5%;}
+.cc{margin-left: 5%;}
+.dd{margin-left: 5%;}
+.end{background-color:blue;margin-top: 10%;}
+.footer{display: flex;}
+.company{margin-left: 5%;color: white;}
+.Help{margin-left: 10%;color: white;}
+.Contact{margin-left: 10%;color: white;}
+.Social{margin-left: 10%;color: white;}
+.last{color: white;}
+.last label{margin-left: 20%;color: white;}
+.last h1{margin-bottom: -1.5%;}
+.last{margin-top: -1.7%;}
+
+
+@media only screen and(max-width:700px) {
+    .main{margin: 0% 5%;}
+.nav{margin-left: 20%;}
+.nav a{padding-left: 30px;}
+.yellow{background-color: yellow}
+.yellow input{margin-left: 10%;padding: 3px 25px;border-radius: 5px;}
+.yellow h1{color: white;margin-bottom: -3%;}
+.yellow button{margin-left: 20%;border-radius: 6px;border-color: yellow;
+    padding: 5px 15px;color: white;background-color: yellowgreen;}
+.icons{float: right;color: white;margin-right: 1%;}
+.intro img{width: 350px;}
+.words h5{color: green;}
+.words button{padding: 8px 50px;background-color: yellow;border-radius: 5px;color: white;} 
+.words{margin-left: 50%;margin-top: %;}
+.intro{margin-top: 3%;margin-left: 5%;}
+.fin{margin-left: 30%;margin-top: -15%;}
+.fin label{color: green;}
+.fin a{color:purple}
+.minipics img {width: 50px;margin-top: 4%;margin-left: 1%;}
+.minipics{margin-left: 4%;}
+.ending button{background-color: yellow;padding: 5px 30px;color: white;border-radius: 5px;}
+.ending input{text-align: center;padding: 5px 0px;}
+.ending{margin-left: 30%;margin-top: 4%;}
+.par{margin: 2% 20%;}
+.par h1{text-align: center;}
+.par img{width: 300px;}
+.one button{border-radius: 5px;border-color: yellow;background-color: white;}
+.two button{border-radius: 5px;border-color: yellow;background-color: white;}
+.three button{border-radius: 5px;border-color: yellow;background-color: white;padding: 20px;}
+.two{float: right;margin-top: -29%;}
+.three{margin-top: 1%;margin-left: 25%;}
+#h1{text-align: center;}
+.mages img{width: 200px;}
+.mages{display: flex ;}
+.aa{margin-left: 5%;}
+.bb{margin-left: 5%;}
+.cc{margin-left: 5%;}
+.dd{margin-left: 5%;}
+.end{background-color:blue;margin-top: 10%;}
+.footer{display: flex;}
+.company{margin-left: 5%;color: white;}
+.Help{margin-left: 10%;color: white;}
+.Contact{margin-left: 10%;color: white;}
+.Social{margin-left: 10%;color: white;}
+.last{color: white;}
+.last label{margin-left: 20%;color: white;}
+.last h1{margin-bottom: -1.5%;}
+.last{margin-top: -1.7%;}
+
+
+
+}
