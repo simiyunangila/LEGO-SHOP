@@ -1,0 +1,29 @@
+.main{margin: 0% 5%;}
+.nav{margin-left: 20%;}
+.nav a{padding-left: 30px;}
+.yellow{background-color: yellow}
+.yellow input{margin-left: 10%;padding: 3px 25px;border-radius: 5px;}
+.yellow h1{color: white;margin-bottom: -3%;}
+.yellow button{margin-left: 20%;border-radius: 6px;border-color: yellow;
+    padding: 5px 15px;color: white;background-color: yellowgreen;}
+.icons{float: right;color: white;margin-right: 1%;}
+.intro img{display: grid;width: 300px;} 
+
+
+.mages img{width: 200px;}
+.mages{display: grid;grid-template-columns: 1fr 1fr 1fr ;}
+.aa{margin-left: 5%;}
+.bb{margin-left: 5%;}
+.cc{margin-left: 5%;}
+.dd{margin-left: 5%;}
+
+.end{background-color:blue;margin-top: 10%;}
+.footer{display: flex;}
+.company{margin-left: 5%;color: white;}
+.Help{margin-left: 10%;color: white;}
+.Contact{margin-left: 10%;color: white;}
+.Social{margin-left: 10%;color: white;}
+.last{color: white;}
+.last label{margin-left: 20%;color: white;}
+.last h1{margin-bottom: -1.5%;}
+.last{margin-top: -1.7%;}
