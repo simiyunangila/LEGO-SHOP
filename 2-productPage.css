@@ -1,4 +1,4 @@
-.main{margin: 0% 5%;}
+.main{margin-left: 5%;margin-right: 5%;}
 .nav{margin-left: 20%;}
 .nav a{padding-left: 30px;}
 .yellow{background-color: yellow}
@@ -7,18 +7,21 @@
 .yellow button{margin-left: 20%;border-radius: 6px;border-color: yellow;
     padding: 5px 15px;color: white;background-color: yellowgreen;}
 .icons{float: right;color: white;margin-right: 1%;}
-.intro img{display: grid;width: 300px;} 
+.intro img{width: 20%;}
+.intro label{margin-top: -5%;}
 
 
-.mages img{width: 200px;}
-.mages{display: grid;grid-template-columns: 1fr 1fr 1fr ;}
+.part{float: right;}
+.half{margin-left: 50%;}
+#h2{text-align: center;}
+.mages img{width: 60%;}
+.mages{display: grid ;grid-template-columns: 1fr 1fr 1fr 1fr;}
 .aa{margin-left: 5%;}
 .bb{margin-left: 5%;}
 .cc{margin-left: 5%;}
 .dd{margin-left: 5%;}
-
-.end{background-color:blue;margin-top: 10%;}
-.footer{display: flex;}
+.end{background-color:blue;margin-top: 5%;}
+.footer{display: grid ;grid-template-columns: 1fr 1fr 1fr 1fr;}
 .company{margin-left: 5%;color: white;}
 .Help{margin-left: 10%;color: white;}
 .Contact{margin-left: 10%;color: white;}

@@ -98,37 +98,23 @@
   #lego13{width: 200px;}
   #lego14{width: 200px;}
   #lego15{width: 200px;}
-  .one1{padding-right: 70px;}
-  .two2{padding-right: 70px;}
-  .three3{padding-right: 70px;}
-  .four4{padding-right: 70px;}
-  .five5{padding-right: 70px;}
-  .six6{padding-right: 70px;}
-  .seven7{padding-right: 70px;}
-  .eight8{padding-right: 70px;}
-  .nine9{padding-right: 70px;}
-  .ten1{padding-right: 70px;}
-  .eleven1{padding-right: 70px;}
-  .eleven2{padding-right: 70px;}
-  .eleven3{padding-right: 70px;}
-  .eleven4{padding-right: 70px;}
-  .eleven5{padding-right: 70px;}
+  
   .many{float: right;margin-top: 20%;}
   .many i{color: yellow;}
-  .one{display: flex;}
-  .two{display: flex;}
-  .three{display: flex;}
-  .four{display: flex;}
-  .five{display: flex;}
+  .one{display: grid;}
+  .two{display: grid;}
+  .three{display: grid;}
+  .four{display: grid;}
+  .five{display: grid;}
   
   .fine button{background-color: yellow;}
   .all{margin-top: 400%;}
-  .footer{display: flex;background-color:blue;}
+  .footer{display: grid;background-color:blue;grid-template-columns: 1fr;}
   .company{margin-left: 5%;color: white;}
   .Help{margin-left: 10%;color: white;}
   .Contact{margin-left: 10%;color: white;}
   .Social{margin-left: 10%;color: white;}
-  .last{background-color: blue;color: white;}
+  .last{background-color: blue;color: white;display: grid;}
   .last label{margin-left: 20%;color: white;}
   .last h1{margin-bottom: -1.5%;}
   .last{margin-top: -1.7%;}

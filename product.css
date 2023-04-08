@@ -30,7 +30,7 @@
 .three{margin-top: 1%;margin-left: 25%;}
 #h1{text-align: center;}
 .mages img{width: 200px;}
-.mages{display: flex ;}
+.mages{display: grid ;grid-template-columns: 1fr 1fr 1fr 1fr;}
 .aa{margin-left: 5%;}
 .bb{margin-left: 5%;}
 .cc{margin-left: 5%;}
@@ -60,7 +60,7 @@
 .intro img{width: 350px;}
 .words h5{color: green;}
 .words button{padding: 8px 50px;background-color: yellow;border-radius: 5px;color: white;} 
-.words{margin-left: 50%;margin-top: %;}
+.words{margin-left: 50%;}
 .intro{margin-top: 3%;margin-left: 5%;}
 .fin{margin-left: 30%;margin-top: -15%;}
 .fin label{color: green;}
@@ -80,13 +80,13 @@
 .three{margin-top: 1%;margin-left: 25%;}
 #h1{text-align: center;}
 .mages img{width: 200px;}
-.mages{display: flex ;}
+.mages{display: grid ;grid-template-columns: 1fr;}
 .aa{margin-left: 5%;}
 .bb{margin-left: 5%;}
 .cc{margin-left: 5%;}
 .dd{margin-left: 5%;}
 .end{background-color:blue;margin-top: 10%;}
-.footer{display: flex;}
+.footer{ display: grid ;grid-template-columns: 1fr;}
 .company{margin-left: 5%;color: white;}
 .Help{margin-left: 10%;color: white;}
 .Contact{margin-left: 10%;color: white;}

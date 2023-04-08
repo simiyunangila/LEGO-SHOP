@@ -81,7 +81,7 @@
         padding: 5px 15px;color: white;background-color: yellowgreen;}
     .titlebar input{padding: 5px;margin-left: 40%;}
     .titlebar i{float: right;width: 2%;}
-    #rivendell{width: 600px;padding: 20px;}
+    #rivendell{width: 70%;padding: 20px;}
     #res{text-align: center;font-size: 30px;}
     #new{text-align: center;font-size: 30px;}
     #lego1{width: 230px;}
@@ -115,7 +115,7 @@
     #pixar{width: 200px;border-radius: 5px;}
     #duplo{width: 200px;border-radius: 5px;}   
     #hea{text-align: center;font-size: 35px;}
-    .images3{}
+    .images3{display: grid;grid-template-columns: 1fr;}
     .one{margin-left: 5%;}
     #one{width: 300px;border-radius: 5%;}
     .two{margin-left: 5%;}
@@ -127,12 +127,12 @@
     .bfooter input{border-radius: 5px;}
     .bfooter button{color: white;background-color: palevioletred;
         padding: 5px 20px;border-radius: 5px;}
-    .footer{display: flex;background-color: purple;}
+    .footer{display:grid;background-color: purple;grid-template-columns: 1fr;}
     .company{margin-left: 5%;}
     .Help{margin-left: 10%;}
     .Contact{margin-left: 10%;}
     .Social{margin-left: 10%;}
-    .last{background-color: purple;}
+    .last{background-color: purple;display: grid;}
     #logo{margin-left: 5%;width: 70px;}
     .last label{margin-left: 10%;}
 }
